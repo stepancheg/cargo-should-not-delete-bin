@@ -1,0 +1,14 @@
+[project]
+name = "foo"
+version = "0.0.1"
+authors = []
+
+[lib]
+
+name = "foo"
+path = "lib.rs"
+
+[[bin]]
+
+name = "elk"
+path = "elk.rs"
